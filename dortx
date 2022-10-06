@@ -22,9 +22,6 @@ http://181.65.154.170:8000/play/a059/index.m3u8
 http://209.45.95.18:8000/play/a03c
 
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",AMERICA TV HD op2
-http://8.243.127.178:8000/play/a010
-
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",MOVISTAR DEPORTED HD
 http://181.65.154.170:8000/play/a052/index.m3u8
 
@@ -276,13 +273,9 @@ http://retroplay.io:80/rjiwrkic/45m9XN1xwy/35246
 http://181.65.154.170:8000/play/a07p/index.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO
 http://181.78.22.214:8000/play/a01h
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO SUR
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/118.m3u8
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO 2 HD
 http://181.65.154.170:8000/play/a07i/index.m3u8
@@ -290,15 +283,17 @@ http://181.65.154.170:8000/play/a07i/index.m3u8
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO 2 SUR
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/119.m3u8
 
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO POP HD
+http://186.3.216.78:9955/play/a10p/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO EXTREME HD
 http://209.45.95.18:8000/play/a07c
 
 
-http://retroplay.io:80/rjiwrkic/45m9XN1xwy/35258
-
                                                                                                                                 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO POP HD
-http://bgapp.live/104/tv9.php?c=MjAzMi0yMjAy&token=blackghoost&f=.m3u8
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO EXTREME SUR
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/35258
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO SIGNATURE
@@ -480,6 +475,7 @@ http://190.61.102.67:31589/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",A&E HD
 http://186.3.216.78:9955/play/a10i/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",A&E MUNDO
 http://181.78.22.214:8000/play/a011
