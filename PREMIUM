@@ -1,0 +1,1148 @@
+#EXTM3U com.retroplay.main\:RetroPlay\:jar\:\:0.0.1-StoreG=F\:\\RetroPlay Project\\RetroPlayWorkSpace\\RetroPlay\\target\\classes
+#EXTM3U com.retroplay.main\:RetroPlay\:pom\:\:0.0.1-StoreG=F\:\\RetroPlay Project\\RetroPlayWorkSpace\\RetroPlay\\pom.xml
+
+
+
+#EXTM3U
+TeamG Store Canales PREMIUM 
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",LATINA HD
+http://181.65.154.170:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",LATINA sd
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=372391787&_cdn_timestamp=1665494227&_cdn_token=72279edbcf68d20b148d064f327a8c57357ec16b
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",AMERICA TV HD
+http://181.65.154.170:8000/play/a059/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",AMERICA TV sd
+http://209.45.95.18:8000/play/a03c
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",AMERICA TV HD op2
+http://8.243.127.178:8000/play/a010
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",MOVISTAR DEPORTED HD
+http://181.65.154.170:8000/play/a052/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",PANAMERICANA SD
+http://209.45.95.18:8000/play/a030
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",PANAMERICANA HD
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=369706115&_cdn_timestamp=1665352139&_cdn_token=905788c12ac7a78c42ee77ed142329852770bac6
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",TV PERU 
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=369706963&_cdn_timestamp=1665352198&_cdn_token=94b856418a28e6a057f460f08cfbc44a12ed5984
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",TV PERU SD
+http://209.45.95.18:8000/play/a034
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",ATV HD
+https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",ATV
+http://190.239.25.140:8000/play/a02h/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",ATV +
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
+
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="DEPORTES",GOL PERU HD
+http://181.65.154.170:8000/play/a05b/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",WILLAX HD
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=369705763&_cdn_timestamp=1665352107&_cdn_token=0dd1d6c51981eb48fbc29fb3e1f8ef166432560b
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",WILLAX SD
+http://181.65.154.170:8000/play/a02c/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",GLOBAL TELEVISION HD
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=369707907&_cdn_timestamp=1665352255&_cdn_token=28c5f82429721867e29ff34a8ce6d30092aada94
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",K9 FERREÑAFE
+http://191.97.60.193:10001/play/a00o/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",EXITOSA TV
+http://191.97.60.193:10001/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",EXITOSA TV OP2
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=369706627&_cdn_timestamp=1665352177&_cdn_token=a3384e1808c6742f7b77e6782c535736e0275eea
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",CTV NOTICIAS
+http://181.65.154.170:8000/play/a080/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",M3 FAMILY
+http://190.108.83.142:8000/play/a002/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",M3 CLASIC
+http://190.108.83.142:8000/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",M3 PRIME
+http://190.108.83.142:8000/play/a005/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",Lolly Kids hd
+http://209.45.95.18:8000/play/a071
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",CANAL DE ESTRELLAS HD
+http://181.65.154.170:8000/play/a07s/index.m3u8	
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",CANAL DE ESTRELLAS SD
+Http://190.61.102.67:31589/play/a00g/index.m3u8	
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",TLNOVELAS HD
+http://181.65.154.170:8000/play/a081/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="VARIADO",TELEMUNDO INTERNACIONAL
+http://181.78.22.214:8000/play/a01t
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="VARIADO",UNIVISION
+http://186.3.216.78:9955/play/a142/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="VARIADO",CARACOL HD 
+http://186.3.216.78:9955/play/a104/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",PASIONES HD
+http://181.65.154.170:8000/play/a03c/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",KANAL D DRAMA HD
+http://209.45.95.18:8000/play/a053
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",TELEMUNDO NOVELAS 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",BADASS NOVELAS 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",NOVELAS CON LA ABUELA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",NOVELAS DEL ROMANCE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="VARIADO",ATRES SERIES HD
+http://181.65.154.170:8000/play/a03l/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",VeneVision 
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",CANAL I (VEN)
+https://vcp.myplaytv.com:443/coll/coll/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="VARIADO",NTV 
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",TNT HD 
+http://181.65.154.170:8000/play/a03f/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",TNT HD OP2
+http://186.3.216.78:9955/play/a0y9/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",TNTSERIES HD
+http://181.65.154.170:8000/play/a071/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",CINEMAX HD
+http://181.65.154.170:8000/play/a03m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",SONY HD
+http://181.65.154.170:8000/play/a04n/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",SPACE HD
+http://181.65.154.170:8000/play/a04q/index.m3u8
+
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/35247
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",AMC HD
+http://181.65.154.170:8000/play/a079/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",STUDIO UNIVERSAL HD
+http://181.65.154.170:8000/play/a07f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",Universal sd
+http://190.61.102.67:31589/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",UNIVERSAL HD
+http://181.65.154.170:8000/play/a06w/index.m3u8
+
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/35266
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",UNIVERSAL CINEMA HD
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/99.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",UNIVERSAL REALITY HD
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/101.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",UNIVERSAL PREMIERE
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/103.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",ComedyCentral SD
+http://190.61.102.67:31589/play/a04a/index.m3u
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",ComedyCentral HD
+http://186.3.216.78:9955/play/a124/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",ComedyCentral op2
+http://190.108.83.142:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",FX sd
+http://190.61.102.67:31589/play/a05z/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",FX HD 
+http://181.65.154.170:8000/play/a072/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",CINELATINO
+http://190.61.102.67:31589/play/a05v/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",TVA                        https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8                                                                                                                                    
+                                                                                                                                 
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",WARNER CHANEL SD
+http://190.61.102.67:31589/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",WARNER CHANEL HD
+http://181.65.154.170:8000/play/a04o/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",AXN HD                                       
+http://181.65.154.170:8000/play/a04p/index.m3u8
+                                                                                                                                 
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",AXN SD
+http://190.61.102.67:31589/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",AXN SD o2
+http://181.78.22.214:8000/play/a01k
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",TBS
+http://190.61.102.67:31589/play/a00o/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",GOLDEN EDGE HD
+http://186.3.216.78:9955/play/a134/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",GOLDEN PLUS HD
+http://181.65.154.170:8000/play/a053/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",GOLDEN PREMIERE HD
+http://186.3.216.78:9955/play/a11z/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",GOLDEN PREMIERE 2 HD
+http://186.3.216.78:9955/play/a120/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",CINECANAL HD
+http://181.65.154.170:8000/play/a078/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",PARAMOUNT NETWORK HD
+http://181.65.154.170:8000/play/a07e/index.m3u8
+
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/35246
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",STAR CHANEL HD
+http://181.65.154.170:8000/play/a07p/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO
+http://181.78.22.214:8000/play/a01h
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO SUR
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/118.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO 2 HD
+http://181.65.154.170:8000/play/a07i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO 2 SUR
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/119.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO EXTREME HD
+http://209.45.95.18:8000/play/a07c
+
+
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/35258
+
+                                                                                                                                
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO POP HD
+http://bgapp.live/104/tv9.php?c=MjAzMi0yMjAy&token=blackghoost&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO SIGNATURE
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/117874
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO MUNDI HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/47868
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO FAMILY HD
+http://181.65.154.170:8000/play/a07x/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",FILM & ART
+http://45.228.232.204:16000/play/a04b/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",Dhe HD
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/35245
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",Uno
+http://190.61.102.67:31589/play/a04p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",Dhe HD
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/35245
+
+  
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",MVSTV
+http://190.61.102.67:31589/play/a03b/index.m3u8
+                                                                                                          
+                                                                                                                                 
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",MULTIpremiere
+http://190.61.102.67:31589/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",OLD
+https://marine2.miplay.cl/old/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",Retro plus 3 
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",MTV
+http://186.28.229.215:25000/play/a00p
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",MTV HITS HD
+http://209.45.95.18:8000/play/a07d
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",MTV 80s
+http://45.236.28.72:8000/play/a0dh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",CartoonNetwork SD
+http://190.61.102.67:31589/play/a03k/index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",CartoonNetwork HD
+http://181.65.154.170:8000/play/a07d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",Cartoonito
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/58.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",Discovery kids SD
+http://190.61.102.67:31589/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",Discovery kids HD 
+http://181.65.154.170:8000/play/a06t/index.m3u8
+
+http://181.65.154.170:8000/play/a07w/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",Discovery kids HD op2
+http://179.1.64.210:8090/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",Disney 
+http://179.1.64.210:8090/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",Disney HD
+http://181.65.154.170:8000/play/a03d/index.m3u8
+
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/35228
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",NICKELODEON
+http://190.61.102.67:31589/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",DISNEY JR sd
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/35229
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",DISNEY JR FHD
+http://181.65.154.170:8000/play/a03i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",DOS KIDS TV
+http://45.160.12.253:8000/play/002
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",NICK HD
+http://181.65.154.170:8000/play/a04w/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",NICK SD
+http://209.45.95.18:8000/play/a03v
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",NICK JR
+http://209.45.95.18:8000/play/a02j
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",Baby TV HD
+http://45.228.232.204:16000/play/a035/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",Baby TV
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/35216
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",PLANETA JUNIOR
+https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOTICIAS",CNN ESPAÑOL                   
+http://181.78.22.214:8000/play/a00h
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",LOVE NATURE HD
+http://181.65.154.170:8000/play/a07o/index.m3u8	
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",DISCOVERY HD
+http://181.65.154.170:8000/play/a07u/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",DISCOVERY H&H SD
+http://190.61.102.67:31589/play/a03g/index.m3u8                                                                                                     
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",DISCOVERY H&H HD
+http://181.65.154.170:8000/play/a05d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",DISCOVERY SCI
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/35202
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",Discovery Theater
+http://181.65.154.170:8000/play/a06v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",Discovery Theater FULL HD
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/35206
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",Discovery World
+http://179.1.64.210:8090/play/a00d/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",NATGEO HD
+http://181.65.154.170:8000/play/a076/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",NATGEO HD op2
+http://181.65.154.170:8000/play/a076/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",Animal Planet SD
+http://181.78.22.214:8000/play/a00v
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",Animal Planet HD
+http://181.65.154.170:8000/play/a07k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",TRUTV
+http://179.1.64.210:8090/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",UNICANAL
+http://45.55.127.106/live/unicanal_mid.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="Documentales",History SD
+http://190.61.102.67:31589/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="Documentales",History HD
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/35197
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="Documentales",History SUR HD
+http://181.65.154.170:8000/play/a04l/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="Documentales",History 2
+http://181.65.154.170:8000/play/a07w/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",A&E sd
+http://190.61.102.67:31589/play/a03f/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",A&E HD
+http://186.3.216.78:9955/play/a10i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",A&E MUNDO
+http://181.78.22.214:8000/play/a011
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",Investigation Discovery
+http://186.3.216.78:9955/play/a143/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",TLC
+http://190.61.102.67:31589/play/a03h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",Mi TV Televisión Clásica
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?NACIONALES.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",Lifetime
+http://190.61.102.67:31589/play/a01i/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",E! sd
+http://190.61.102.67:31589/play/a03i/index.m3u8       
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",E! HD 
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/35201
+
+                                                                                                   
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/" group-title="MUSICA",TELE HIT MUSIC
+http://181.65.154.170:8000/play/a054/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",DIRECTV SPORTS
+https://2200.janjua.pw:8088/adfree/directvhd/playlist.m3u8?vidictid=192658076839&id=108092&pk=eb97ebd50bd6a8815183b06b15ace039cd964a22d0e9822a7eaaa277e675fb31
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",DIRECTV SPORTS lat
+https://2200.janjua.pw:8088/adfree/directvhd/playlist.m3u8?vidictid=192687234323&id=108092&pk=eb97ebd50bd6a8815183b06b15ace039cd964a22d0e9822a7eaaa277e675fb31
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN SD
+http://181.78.22.214:8000/play/a010
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN HD
+http://186.3.216.78:9955/play/a13x/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN 2 CHI 
+http://181.78.22.214:8000/play/a00z
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN 2 HD
+http://retroplay.io:80/eedzdgnq/MGCuKNMT/123652
+
+http://181.65.154.170:8000/play/a03j/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN 3 HD
+http://retroplay.io:80/eedzdgnq/MGCuKNMT/123654
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN 4
+http://181.65.154.170:8000/play/a06y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN EXTRA HD
+http://209.45.95.18:8000/play/a050
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES",FOX Sports 1
+http://181.65.154.170:8000/play/a07v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES",FOX Sports 2 
+http://186.3.216.78:9955/play/a123/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES",Fox Sports 3
+http://186.3.216.78:9955/play/a140/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES ",BeIN Sports Ñ HD
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/56.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES ",TyC Sports
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/163.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES ",TNT SPORTS HD
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/34683
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES ",TNT SPORTS FULL HD
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/34684
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES ",TNT SPORTS CL FULLHD
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/123716
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES ",TNT SPORTS 2
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/34674
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES ",TNT SPORTS 3
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/123887
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES ",WIN SPORTS HD
+http://186.3.216.78:9955/play/a10q/index.m3u8
+
+EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES ",WIN SPORTS + HD
+http://186.3.216.78:9955/play/a0ze/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN EXTRA HD
+http://179.1.64.210:8090/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES",FOX Sports 2 SD                                  http://181.78.22.214:8000/play/a01v
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES",FIT TV
+http://190.108.83.142:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES",Fitmaxx TV
+https://marine2.miplay.cl/fitmaxx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA ",MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",VIP Cinema Ciencia Ficcion FHD
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/50573
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",VIP Cinema DC Comics FHD
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/50576
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",VIP Cinema DC Universe HD
+http://retroplay.io:80/rjiwrkic/45m9XN1xwy/50577
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",FOODIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
+
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",JURASSIC WORLD 1
+https://onedrive.live.com/download.aspx?cid=CE04B9016CA29A42&resid=CE04B9016CA29A42!125&authkey=ABVa_LQGRRgl8Yc
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",El cazador y la reina de hielo (2016/AVENTURA)
+https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NETFLIX",PIXELES (2015/COMEDIA)
+https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",MI VIDA A LOS 17 SUBTITULADO
+http://bit.ly/2v16m9z
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",La bella durmiente Clasico.
+http://bit.ly/LABELLAMOVIE
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",VOLVER AL FUTURO
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",VOLVER AL FUTURO 3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",CHUKY [1988]
+http://bit.ly/MRAQCCHUCK	
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",CHUKY 2 [1990]
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4%20
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",CHUCKY 3 [1991]
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4 
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",LA NOVIA DE CHUCKY
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS", EL MAL ADENTRO(2017) SUB (terror)
+http://bit.ly/EVILWITHIN_MOVIE
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS", PET:MASCOTA HUMANA (2016/Terror)
+http://bit.ly/MASCOTAHUMANA
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DisneyPLUS",Abracadabra 2 (2022/Comedia)
+https://s20.fastream.to/hls2/03/00039/praerpay8pff_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=3K0TuJuGK3CrGpB1TjjrUxEzfVUa7sz980dAbXcaFXo&s=1664856605&e=43200&f=198780&srv=s9&i=0.0&sp=0&p1=s9&p2=s9
+
+#EXTINF:-1 tvg-logo="https://www.ennetflix.com.ar/media/8/tormenta-de-arena_80098810.jpg"  group-title="NETFLIX",TORMENTA DE ARENA (2016/Drama)
+http://bit.ly/MRAQCASTI
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NETFLIX",EN EL CORAZON DEL MAR (2015/Aventura)
+https://goo.gl/4BqODN
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",LA CHICA DAnesa (2015/Drama)
+https://goo.gl/nQXbQ5
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",Hannibal, el origen del mal (2007/Terror)
+https://goo.gl/gWJEZq
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",Mi abuelo es un peligro (2016/Comedia)
+https://goo.gl/KYCQoX
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELICULAS",Siniestro (2012/Terror)
+https://goo.gl/F5NCPj	
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NETFLIX",SANDY WEXLER (ADAM SANDLER)
+http://bit.ly/MRAQCSAND
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/17/05/31/12/51/150091.png/"  group-title="PELICULAS",COLOSSAL
+http://bit.ly/2w5zZIw
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NETFLIX KIDS",SAHARA
+http://bit.ly/SAHARAMOVIE
+
+#EXTINF:-1 tvg-logo="https://www.ennetflix.com.ar/media/8/tormenta-de-arena_80098810.jpg"  group-title="NETFLIX KIDS",ANGRY BIRDS
+https://goo.gl/3KGMLf
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/doragon_boru_supa_supa_hiro-181561937-mmed.jpg"  group-title="ESTRENO",Dragon Ball Hero (2022/Anime)
+https://cldup.com/iXKN3BD-edu.mp4?download=DBS-SH.2022.lat-AnimeYT.es.mp4
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",VISION MUSICA
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",TocaHITS RETROMIX
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/39075
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",TocaHITS URBANO
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/39837
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",TocaHITS RETRO
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/42485
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",TocaHITS LATINO
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/43219
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",TocaHITS POP
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/52637
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",TocaHITS ROCK 
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/65357
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",VIDEO TOUR CHANNEL
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",RadioTv.pro
+https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",PORTALFOXMIX
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w275910026.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",TELERITMO
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",A2i MUSIC
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="MUSICA",88 STEREO
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",EL CHAVO DEL 8
+https://live.telelatinohd.com:8080/MTc5LjYuMTA5LjE0MQ==/150_.m3u8?token=NsvGDAiXdAgBxQQFWMNn0Q&expires=1664856824
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",BOB ESPONJA
+https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",Death Note
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",THE WALKING DEAD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/featuredImage.jpg" group-title="24/7",El Reyno Infaltil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51f247aa-de6a-4551-a331-ffa4c5dc6b64&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",CINECOMEDIA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f513564e4622a0007c578c0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",CINE XOXO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5136317aedfb0007016f93/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",CSI 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604928d54a4f730007ff76bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",NARCOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7b47f12a45590007821749/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",VIAJE A LAS ESTRELLAS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",SERIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",INVESTIGACIONES 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",CRIMENES IMPERFECTOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",EMERGENCIA 911
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492a1e6361250007679665/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",ACTIVIDAD PARANORMAL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492a9bbca75b0007b1bfd5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+V#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",MISTERIOS SIN RESOLVER
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d882d5233170007ee880e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",MUNDO AVENTURA DOCUMENTALES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",Hell's Kitchen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",SONY CANAL COMEDIAS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492bb931054f00073c0b4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",ENTRE NOSOTRAS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492c67f4c48700075b5d37/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",ESTRELLA TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",CORTOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c49a1b5ec8d40008673251/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",South Park
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628751bb7154a40007168843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",CINE ADRENALINA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",CINE TERROR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+	
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",MI OBSECION FAVORITA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",ACAPULCO SHORE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",MTV 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",COMEDY CENTRAL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",NARUTO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",YU-GI-OH!
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604930bc28b24d0007e0e171/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",NICK JR 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",BEBECITO BURN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",BBC KIDS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6165c917a7302e0007871330/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",PINKFONG
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",PISTAS DE BLUE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",RUGRATS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",KARAOKE 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",CONCIERTOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="24/7",TIERRA DE LOBOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ae59c341b1d0007d1c7cb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E01
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254484.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E02
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254485.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E03
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254486.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E04
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254487.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E05
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254488.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E06
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254489.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E07
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254490.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E08
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254491.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E09
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254492.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E10
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254493.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E11
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254494.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E12
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254495.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S01 E13
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254496.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E01
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254497.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E02
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254498.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E03
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254499.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E04
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254500.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E05
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/292729.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E06
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254501.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E07
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/292735.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E08
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254502.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E09
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254503.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E10
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254504.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E11
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254505.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S02 E12
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/292758.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S03 E01
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254506.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S03 E02
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254507.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S03 E03
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254508.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S03 E04
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254509.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S03 E05
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254510.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S03 E06
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254511.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S03 E07
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254512.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S03 E08
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254513.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S04 E01
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254514.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S04 E02
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254515.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S04 E03
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254516.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S04 E04
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254517.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S04 E05
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254518.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S04 E06
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254519.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S04 E07
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254520.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S04 E08
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254521.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E01
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254522.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E02
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254523.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E03
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254524.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E04
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254525.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E05
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254526.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E06
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/307601.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E07
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/307602.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E08
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/307603.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E09
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/307604.mkv
+#EXTINF:-1 tvg-logo="https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/master/pass/la-casa-de-papel.jpg"group-title="CASA DE PAPEL/NETFLIX",S05 E10
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/307605.mkv
+
+
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E01
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254527.mp4
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E02
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254528.mp4
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E03
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254529.mp4
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E04
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254530.mp4
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E05
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254531.mp4
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E06
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254532.mp4
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E07
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254533.mp4
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E08
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254534.mp4
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E09
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254535.mp4
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S01 E10
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254536.mp4
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E01
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254537.mkv
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E02
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254538.mkv
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E03
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254539.mkv
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E04
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254540.mkv
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E05
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254541.mkv
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E06
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254542.mkv
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E07
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254543.mkv
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E08
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254544.mkv
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E09
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254545.mkv
+#EXTINF:-1 tvg-logo="http://titanlivetv.com:8080/images/b1e67202f13848b7f940012763845218.jpg"group-title="The Purge/PrimeVideo",S02 E10
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254546.mkv
+
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E01
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254712.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E02
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254713.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E03
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254714.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E04
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254715.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E05
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254716.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E06
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254717.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E07
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254718.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E08
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254719.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E09
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254720.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S01 E10
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254721.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E01
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254722.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E02
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254723.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E03
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254724.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E04
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254725.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E05
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254726.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E06
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254727.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E07
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254728.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E08
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254729.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E09
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254730.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S02 E10
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/254731.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E01
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305587.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E02
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305588.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E03
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305589.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E04
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305590.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E05
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305591.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E06
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305592.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E07
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305593.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E08
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305594.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E09
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305595.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_Serie_de_TV-422973449-large.jpg" group-title="The Umbrella Academy/NETFLIX",S03 E10
+http://retroplay.io:80/series/grmgrwwz/23x0QQs4tj/305596.mkv
+
+
+
+
+
